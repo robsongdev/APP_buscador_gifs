@@ -4,9 +4,9 @@
 
 
 <p align="center">
-  <img alt="Tela" title="#Tela" src="./assets/WhatsApp Video 2021-01-28 at 12.20.01.mp4" width="200px">
+  <img alt="Tela" title="#Tela" src="./assets/tela1.gif" width="200px">
 
-  <img alt="Tela" title="#Tela" src="./assets/WhatsApp Video 2021-01-28 at 12.20.56.mp4" width="200px">
+  <img alt="Tela" title="#Tela" src="./assets/tela2.gif" width="200px">
 </p>
 
 
