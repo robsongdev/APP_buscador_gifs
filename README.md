@@ -1,4 +1,6 @@
-<h1 align="center">App Buscador de GIFs</h1>
+<img alt="icon" title="#icon" src="./assets/user-interface.png" width="100px" align = "left"> <br>
+
+<h1 align="center">  App Buscador de GIFs</h1>
 
 <p align="center">App que busca GIFs e compartilha pelas redes ja instaladas no aparelho</p>
 
