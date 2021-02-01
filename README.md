@@ -21,8 +21,8 @@
   <a href="#-tecnologias">Tecnologias</a> •
   <a href="#-funcionalidades">Funcionalidades</a> •
   <a href="#-como-rodar-o-projeto">Como Rodar</a> •
-  <a href="#-licença">Licença</a> •
-  <a href="#-autor">Autor</a>
+  <a href="#-autor">Autor</a>  •
+<a href="#-licença">Licença</a>
 </p>
 
 
@@ -48,10 +48,10 @@
 ### **Utilitários**
 
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions: [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
+
 ---
 
-## ⚙️ Funcionalidades
-
+## 📝 Funcionalidades
 - [x] Gifs mais utilizados no momento
      - Possibilidade de varias paginas
 - [x] Buscador de GIFs
